@@ -46,7 +46,7 @@
         }else{
             if(theme_content['bool_save']==false){ //全新作品或未保存内容，且未定义语音
                 console.log('set random record');
-                $('#audio_record').attr('src','http://cdn.aitetu520.com/chongqin_shenlin.mp3');
+                $('#audio_record').attr('src','http://1.888dly.vip/69/1.mp3');
             }else{ //非全新作品或已保存内容，但未定义语音，则不显示语音
                 $('#div_record').hide();
                 $('#div_record_tips').hide();
